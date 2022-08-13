@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @asthabarwal
-- 👀 I’m interested in expanding my horizons
-- 🌱 I’m currently learning front end web dev
 - 📫 Reach me at asthastuff@gmail.com
 
 <!---
